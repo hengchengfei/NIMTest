@@ -4,7 +4,12 @@ use_frameworks!
 inhibit_all_warnings!
 
 def app_pods
-    pod 'NIMKit'               #网易云信
+    pod 'NIMSDK'               #网易云信
+    pod 'SDWebImage', '~> 3.8.2'
+    pod 'Toast', '~> 3.0'
+    pod 'SVProgressHUD', '~> 2.0.3'
+    pod 'M80AttributedLabel', '~> 1.6.3'
+    pod 'TZImagePickerController', '~> 1.7.7'
 end
 
 target 'aa' do

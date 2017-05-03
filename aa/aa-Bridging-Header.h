@@ -4,5 +4,4 @@
 
 #import <NIMSDK/NIMSDK.h>
 
-//加入此句就报错
-//#import <NIMKit/NIMKit.h>
+#import "NIMKit.h"

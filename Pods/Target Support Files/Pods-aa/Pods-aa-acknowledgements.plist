@@ -47,17 +47,7 @@ THE SOFTWARE.
 			<key>License</key>
 			<string>Copyright</string>
 			<key>Title</key>
-			<string>NIMKit</string>
-			<key>Type</key>
-			<string>PSGroupSpecifier</string>
-		</dict>
-		<dict>
-			<key>FooterText</key>
-			<string>Copyright 2017 Netease </string>
-			<key>License</key>
-			<string>Copyright</string>
-			<key>Title</key>
-			<string>NIMSDK_LITE</string>
+			<string>NIMSDK</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>

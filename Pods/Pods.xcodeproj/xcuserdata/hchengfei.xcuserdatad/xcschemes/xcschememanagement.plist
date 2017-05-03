@@ -9,11 +9,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>NIMKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<true/>
-		</dict>
 		<key>Pods-aa.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -42,37 +37,32 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>11205672BF3BE115A69198694377C346</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>28223BB46C9D7EECDCC3818D107F4B67</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>2A41F873426068D5EB575500BCC63BF7</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4E124D4E49A0332DE76DC42B82BB6492</key>
+		<key>5F64A3DB138B35AA553C202A0F41701E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>694861F237FBFE957D9A0B51EA0ECC0B</key>
+		<key>8E9D09138A99B86258D5BE1221DF9393</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>8887C5E7CC7F96BBDEDC352A1CC3F41F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>99ECA3A760748F78E4326A2A04144A3A</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A11702B97C12ABDCB581418E574ABF41</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A4456AB9471F243FC31B844035250265</key>
+		<key>DC8B4A20D29EF27D3510394A16A694B1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

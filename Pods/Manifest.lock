@@ -1,17 +1,6 @@
 PODS:
-  - M80AttributedLabel (1.5.0)
-  - NIMKit (1.2.0):
-    - NIMKit/Lite (= 1.2.0)
-  - NIMKit/Core (1.2.0):
-    - M80AttributedLabel (~> 1.5.0)
-    - SDWebImage (~> 3.8.2)
-    - SVProgressHUD (~> 2.0.3)
-    - Toast (~> 3.0)
-    - TZImagePickerController (~> 1.7.7)
-  - NIMKit/Lite (1.2.0):
-    - NIMKit/Core
-    - NIMSDK_LITE (~> 3.5.0)
-  - NIMSDK_LITE (3.5.5)
+  - M80AttributedLabel (1.6.3)
+  - NIMSDK (3.5.5)
   - SDWebImage (3.8.2):
     - SDWebImage/Core (= 3.8.2)
   - SDWebImage/Core (3.8.2)
@@ -20,17 +9,21 @@ PODS:
   - TZImagePickerController (1.7.9)
 
 DEPENDENCIES:
-  - NIMKit
+  - M80AttributedLabel (~> 1.6.3)
+  - NIMSDK
+  - SDWebImage (~> 3.8.2)
+  - SVProgressHUD (~> 2.0.3)
+  - Toast (~> 3.0)
+  - TZImagePickerController (~> 1.7.7)
 
 SPEC CHECKSUMS:
-  M80AttributedLabel: f2bf6608c3fa5475d3f753d4cc7e41dc2359c6c2
-  NIMKit: e4d35227db05119b71fa09c9f47de8c9f2a57b5d
-  NIMSDK_LITE: dde3ce307bce5674c5f27e3703cb4c7321ec7355
+  M80AttributedLabel: d06543195d3e451d2ea62ad76d04aa9cea7661d4
+  NIMSDK: 12783e4dffda35d4bc3cd60228f5474241ae5752
   SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
   SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
   Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
   TZImagePickerController: 0a8ff228d287ebdd7d485e8c42a2a932894f1fba
 
-PODFILE CHECKSUM: 99ee759d3fc4e306c8d0e7e6e65a8bd2e722ca86
+PODFILE CHECKSUM: 608d27b5f535e6db01ea7c604ab68b019084812c
 
 COCOAPODS: 1.2.1
